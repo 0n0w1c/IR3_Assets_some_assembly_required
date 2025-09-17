@@ -1,0 +1,14 @@
+{
+    "name": "IR3_Assets_some_assembly_required",
+    "version": "0.0.1",
+    "title": "IR3 Assets: Some Assembly Required",
+    "author": "0n0w1c",
+    "description": "Make IR3 Assets compatible with Factorio 2.0",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "IndustrialRevolution3Assets1",
+        "IndustrialRevolution3Assets2",
+        "IndustrialRevolution3Assets3",
+        "IndustrialRevolution3Assets4"
+    ]
+}
