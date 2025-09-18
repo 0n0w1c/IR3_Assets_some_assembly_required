@@ -3,7 +3,7 @@
 Due to the licensing restrictions, the IR3 Assets can not be repackaged for Factorio 2.0.  
 However, users have full permissions to make the necessary modifications themselves.  
 
-This mod provides the instructions below and checks if the **Industrial Revolution 3 Asset Packs** are usable by Factorio 2.0 mods.  
+This mod provides the instructions below and checks if the **Industrial Revolution 3 Assets Packs** are usable by Factorio 2.0 mods.  
 This mod includes sample/replacement info.json files for the assets packs.  
 This mod does **not** include IR3 or the assets.  
 
@@ -11,7 +11,7 @@ This mod does **not** include IR3 or the assets.
 
 ## Installation Instructions
 
-### 1. Download the four IR3 Asset packs
+### 1. Download the four IR3 Assets packs
 Manually download the following mods from the Factorio mod portal:
 
 - [IndustrialRevolution3Assets1](https://mods.factorio.com/download/IndustrialRevolution3Assets1/66c7cf8d97808af868e48f42)
@@ -40,7 +40,7 @@ Factorio 2.0 will not load these mods until you fix their metadata.
 You have two options:
 
 #### Option A: Edit manually
-Open each `info.json` inside the asset folders and:
+Open each `info.json` inside the assets folders and:
 1. Replace the `dependencies:` section with an empty array:
    `"dependencies": []`
 2. Change the Factorio version:
@@ -51,7 +51,7 @@ to
 
 #### Option B: Copy the supplied fixed files
 This mod includes four pre-patched info.json files inside the named folders.
-Copy each one into the corresponding asset folder, overwriting the original info.json.
+Copy each one into the corresponding assets folder, overwriting the original info.json.
 
 Start Factorio 2.0, it will now recognize the assets and make them available for mods.
 
