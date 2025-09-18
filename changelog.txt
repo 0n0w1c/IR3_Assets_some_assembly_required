@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 18.09.2025
+  Bugfixes:
+    - Switched to optional dependencies and updated the installation instructions
+  Features:
+    - None
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 17.09.2025
   Bugfixes:

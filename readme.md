@@ -50,12 +50,12 @@ to
    `"factorio_version": "2.0"`
 
 #### Option B: Copy the supplied fixed files
-This mod includes four pre-patched info.json files inside the named folders.
+Extract the files from this mod, included are four pre-patched info.json files inside named folders.  
 Copy each one into the corresponding assets folder, overwriting the original info.json.
 
-Start Factorio 2.0, it will now recognize the assets and make them available for mods.
+#### Finally, start Factorio 2.0 and check the installed mods, all four IR3 Assets mods should be active.
 
-#### Optional: Remove this mod
+#### Optional: Uninstall this mod
 Once the assets load with Factorio 2.0, this mod can be uninstalled, it is not required for the assets to remain available.
 
 #### Usage:
