@@ -55,8 +55,7 @@ Copy each one into the corresponding assets folder, overwriting the original inf
 
 #### Finally, start Factorio 2.0 and check the installed mods, all four IR3 Assets mods should be active.
 
-#### Optional: Uninstall this mod
-Once the assets load with Factorio 2.0, this mod can be uninstalled, it is not required for the assets to remain available.
+---
 
 #### Usage:
 Mods can then make use of the IR3 assets via the Factorio 2.0 API.  
