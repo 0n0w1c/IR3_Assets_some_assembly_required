@@ -2,6 +2,7 @@
 
 Due to the licensing restrictions, the IR3 Assets can not be repackaged for Factorio 2.0.  
 However, users have full permissions to make the necessary modifications themselves.  
+For licensing concerns: [FAQ](https://mods.factorio.com/mod/IR3_Assets_furnaces/faq)  
 
 This mod provides the instructions below and checks if the **Industrial Revolution 3 Assets Packs** are usable by Factorio 2.0 mods.  
 This mod includes sample/replacement info.json files for the assets packs.  
