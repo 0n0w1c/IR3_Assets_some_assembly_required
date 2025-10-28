@@ -1,21 +1,28 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 27.10.2025
+  Bugfixes:
+    - None
+  Changes:
+    - Added optimized particles and trivial smoke used by damage effects and explosions
+---------------------------------------------------------------------------------------------------
 Version: 0.0.3
 Date: 10.10.2025
   Bugfixes:
     - Mod tile changed to use lowercase
-  Features:
+  Changes:
     - Added a FAQ to the mod portal
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 18.09.2025
   Bugfixes:
     - Switched to optional dependencies and updated the installation instructions
-  Features:
+  Changes:
     - None
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 17.09.2025
   Bugfixes:
     - None
-  Features:
+  Changes:
     - Initial release
