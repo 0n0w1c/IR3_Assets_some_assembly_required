@@ -1,3 +1,11 @@
+if not (mods["IndustrialRevolution3Assets1"]
+        and mods["IndustrialRevolution3Assets2"]
+        and mods["IndustrialRevolution3Assets3"]
+        and mods["IndustrialRevolution3Assets4"]
+    ) then
+    return
+end
+
 require("prototypes/entity/trivial-smoke/IR3-particle-smoke")
 
 require("prototypes/entity/optimized-particle/bronze-particle")
