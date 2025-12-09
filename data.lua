@@ -15,7 +15,7 @@ require("prototypes/entity/optimized-particle/gold-particle")
 require("prototypes/entity/optimized-particle/iron-particle")
 require("prototypes/entity/optimized-particle/rubber-particle")
 require("prototypes/entity/optimized-particle/steel-particle")
-require("prototypes/entity/optimized-particle/stone-particle")
+--require("prototypes/entity/optimized-particle/stone-particle")
 require("prototypes/entity/optimized-particle/wood-particle")
 
 require("prototypes/entity/optimized-particle/coal-mining-particle")
