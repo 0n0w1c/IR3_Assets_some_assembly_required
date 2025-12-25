@@ -14,9 +14,8 @@ local function check_required_mods()
     end
 
     if table_size(missing_mods) > 0 then
-        local message =
-            "Warning: 'IR3 Assets: some assembly required' has been deactivated, the following IR3 Asset Packs are not active: "
-            .. table.concat(missing_mods, ", ")
+        local missing_list = table.concat(missing_mods, ", ")
+        local message = {"message.ir3-assets-missing", missing_list}
 
         if game then
             game.print(message)
