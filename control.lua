@@ -15,13 +15,15 @@ local function check_required_mods()
 
     if table_size(missing_mods) > 0 then
         local missing_list = table.concat(missing_mods, ", ")
-        local message = {"message.ir3-assets-missing", missing_list}
+        local message = { "message.ir3-assets-missing", missing_list }
 
         if game then
             game.print(message)
         end
     end
 end
+
+script.on_event(defines.events.on_player_created, check_required_mods)
 
 script.on_configuration_changed(function()
     check_required_mods()
