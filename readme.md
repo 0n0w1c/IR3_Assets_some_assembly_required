@@ -8,7 +8,7 @@ This mod provides the instructions below and checks if the **Industrial Revoluti
 This mod includes sample/replacement info.json files for the assets packs.  
 This mod does **not** include IR3 or the assets.  
 
-For the the full *IR3* experience: [Industrial Revolution 3 Patchset for 2.0 (Unofficial IR3)](https://mods.factorio.com/mod/IndustrialRevolution3Patchset).
+For the full *IR3* experience: [Industrial Revolution 3 Patchset for 2.0 (Unofficial IR3)](https://mods.factorio.com/mod/IndustrialRevolution3Patchset)
 
 ---
 
