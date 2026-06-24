@@ -1,10 +1,10 @@
 # IR3 Assets: some assembly required
 
-Due to the licensing restrictions, the IR3 Assets can not be repackaged for Factorio 2.1.  
+Due to the licensing restrictions, the IR3 Assets can not be repackaged for Factorio 2.0/2.1.  
 However, users have full permissions to make the necessary modifications themselves.  
 For licensing concerns: [FAQ](https://mods.factorio.com/mod/IR3_Assets_some_assebly_required/faq)  
 
-This mod provides the instructions below and checks if the **Industrial Revolution 3 Assets Packs** are usable by Factorio 2.1 mods.  
+This mod provides the instructions below and checks if the **Industrial Revolution 3 Assets Packs** are usable by Factorio 2.0/2.1 mods.  
 This mod includes sample/replacement info.json files for the assets packs.  
 This mod does **not** include IR3 or the assets.  
 
@@ -50,18 +50,18 @@ Open each `info.json` inside the assets folders and:
 from
    `"factorio_version": "1.1"`
 to
-   `"factorio_version": "2.1"`
+   `"factorio_version": "2.0"` or `"2.1"`
 
 #### Option B: Copy the supplied fixed files
 Extract the files from this mod, included are four pre-patched info.json files inside named folders.  
 Copy each one into the corresponding assets folder, overwriting the original info.json.
 
-#### Finally, start Factorio 2.1 and check the installed mods, all four IR3 Assets mods should be active.
+#### Finally, start Factorio 2.0/2.1 and check the installed mods, all four IR3 Assets mods should be active.
 
 ---
 
 #### Usage:
-Mods can then make use of the IR3 assets via the Factorio 2.1 API.  
+Mods can then make use of the IR3 assets via the Factorio 2.0/2.1 API.  
 ```
 if mods["IndustrialRevolution3Assets1"] then
     icon = "__IndustrialRevolution3Assets1__/graphics/icons/64/medical-pack.png"
