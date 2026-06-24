@@ -1,11 +1,12 @@
 {
     "name": "IR3_Assets_some_assembly_required",
-    "version": "0.1.8",
+    "version": "0.2.0",
     "title": "IR3 Assets: some assembly required",
     "author": "0n0w1c",
-    "description": "Check if IR3 Assets are compatible with Factorio 2.0",
-    "factorio_version": "2.0",
+    "description": "Check if IR3 Assets are compatible with Factorio 2.1",
+    "factorio_version": "2.1",
     "dependencies": [
+        "base >= 2.1",
         "? IndustrialRevolution3Assets1",
         "? IndustrialRevolution3Assets2",
         "? IndustrialRevolution3Assets3",

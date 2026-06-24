@@ -13,7 +13,7 @@ local function check_required_mods()
         end
     end
 
-    if table_size(missing_mods) > 0 then
+    if #missing_mods > 0 then
         local missing_list = table.concat(missing_mods, ", ")
         local message = { "message.ir3-assets-missing", missing_list }
 
